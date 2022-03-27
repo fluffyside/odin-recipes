@@ -1,2 +1,2 @@
 # odin-recipes
-Assignment for Mr Odin
+First assignment for Mr Odin
